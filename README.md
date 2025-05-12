@@ -13,4 +13,7 @@ A simple command-line calculator that evaluates expressions using Reverse Polish
 | Input        | Ouput        |
 |--------------|--------------|
 | 3 4 +        | 7            |
+| 5 1 2 + 4 * + 3 -        | 14            |
+| 3 4 +        | 7            |
+| 3 4 +        | 7            |
 
