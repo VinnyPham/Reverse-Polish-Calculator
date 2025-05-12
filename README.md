@@ -14,6 +14,6 @@ A simple command-line calculator that evaluates expressions using Reverse Polish
 |--------------|--------------|
 | 3 4 +        | 7            |
 | 5 1 2 + 4 * + 3 -        | 14            |
-| 3 4 +        | 7            |
-| 3 4 +        | 7            |
+| 10 2 /        | 5            |
+| 2 3 + 5 *        | 25            |
 
