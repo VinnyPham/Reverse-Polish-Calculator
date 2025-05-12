@@ -10,5 +10,7 @@ A simple command-line calculator that evaluates expressions using Reverse Polish
 - Clean and readable code structure
 
 ## **Sample Output**
-Input&nbsp;Output
-**`3 4 +        7`**
+| Input        | Ouput       |
+|--------------|--------------|
+| Value A      | Value B      |
+
